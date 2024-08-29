@@ -6,7 +6,7 @@
 - 📫 LinkedIn: [Rishitha LinkedIn](https://www.linkedin.com/in/rishitha-bura-36a035231/)
 - ⚡ Fun fact: I love reading books. My favorite genres are Fantasy and Drama. I used to play guitar and also took an Music Exam from University of West London.
 
-### Skills gained:
+### Skills:
 - **Backend Programming Languages:** Java, NodeJS, REST API, Python, C++
 - **Frontend Programming Languages:** HTML, CSS, JavaScript, React
 - **Databases:** MySQL, Firebase (NoSQL)
